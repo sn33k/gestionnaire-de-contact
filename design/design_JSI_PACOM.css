@@ -1,0 +1,27 @@
+/* design JSI - pacom 0.00 */
+body{
+	margin:0;
+    background-color: #C0C0C0;
+	text-align: center ;
+}
+
+#form_login{
+   margin:auto;
+   width:500px;
+   vertical-align:middle;
+}
+
+#form_login label {
+   display:block;
+   width:100px;
+   float:left;
+   text-align:right;
+}
+
+#form_login input{
+   width:100px;
+}
+
+#contenu{
+
+}
