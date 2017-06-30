@@ -28,7 +28,7 @@ DR MICRO 34 <span style="color: green;"> // Essayer de faire un logo</span><br /
 Lior Levy<br />
 <br />
  - Développeur<br />
-Nicolas Seneca<br />
+Sn33k<br />
 <br />
 <br />
  - Contact<br />
